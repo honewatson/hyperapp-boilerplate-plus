@@ -19,6 +19,6 @@ Add files to src/jsx/
 
 You can add data files too.
 
-`src/jsx/default.json` for all data defaults of all src/jsx/*.jsx
+`src/jsx/default.json` for all data defaults of all `src/jsx/*.jsx`
 
 Add a custom file for each jsx by just adding the same filename with the file extension replaced.  For example `home.jsx` will use `home.json`
